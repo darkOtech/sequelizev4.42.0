@@ -24,7 +24,7 @@ Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microso
 ## Installation
 
 ```bash
-$ npm install --save sequelize
+$ npm install --save darkotech-sequelize
 
 # And one of the following:
 $ npm install --save pg pg-hstore
